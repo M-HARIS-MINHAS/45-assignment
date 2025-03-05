@@ -1,4 +1,4 @@
-```markdown
+
 # TypeScript 45 Questions Assignment
 
 This repository contains the solutions to the 45 TypeScript questions assigned by Sir Zia at the Governor Sindh Initiative for AI and Cloud Computing (GIAIC).
@@ -32,7 +32,7 @@ This assignment consists of 45 TypeScript questions designed to test and enhance
 3. Install TypeScript globally if not installed:
    ```bash
    npm install -g typescript
-   ```
+  
 4. Navigate to the project folder:
    ```bash
    cd typescript-assignment
