@@ -1,82 +1,62 @@
-TypeScript 45 Questions Assignment
+```markdown
+# TypeScript 45 Questions Assignment
 
 This repository contains the solutions to the 45 TypeScript questions assigned by Sir Zia at the Governor Sindh Initiative for AI and Cloud Computing (GIAIC).
 
-Overview
+## Overview
+- **Assignment Name:** TypeScript 45 Questions Assignment
+- **Instructor:** Sir Zia
+- **Program:** Governor Sindh Initiative for AI and Cloud Computing (GIAIC)
+- **Batch:** Q2 (Next.js and TypeScript)
+- **Student Name:** M Haris
+- **Submission Date:** Completed and submitted before the second class
+- **Time Taken:** 6 Days
 
-Assignment Name: TypeScript 45 Questions Assignment
-
-Instructor: Sir Zia
-
-Program: Governor Sindh Initiative for AI and Cloud Computing (GIAIC)
-
-Batch: Q2 (Next.js and TypeScript)
-
-Student Name: M Haris
-
-Submission Date: Completed and submitted before the second class
-
-Time Taken: 6 Days
-
-Description
-
+## Description
 This assignment consists of 45 TypeScript questions designed to test and enhance TypeScript skills. The questions cover fundamental concepts including:
 
-TypeScript Basics
+- TypeScript Basics
+- Variables and Data Types
+- Functions
+- Arrays and Tuples
+- Objects and Interfaces
+- Classes and OOP Concepts
+- Enums
+- Union and Intersection Types
+- Type Assertions
+- Type Aliases
 
-Variables and Data Types
+## How to Run the Code
+1. Clone this repository.
+2. Make sure you have **Node.js** installed.
+3. Install TypeScript globally if not installed:
+   ```bash
+   npm install -g typescript
+   ```
+4. Navigate to the project folder:
+   ```bash
+   cd typescript-assignment
+   ```
+5. Compile the TypeScript files:
+   ```bash
+   tsc
+   ```
+6. Run the JavaScript files:
+   ```bash
+   node filename.js
+   ```
 
-Functions
+## Achievements
+✅ Completed all 45 questions within 6 days  
+✅ Submitted before the second class  
+✅ Enhanced TypeScript knowledge  
 
-Arrays and Tuples
+## Contact
+- **Name:** M Haris
+- **GitHub:** [Your GitHub Profile Link]
+- **Email:** [Your Email Address]
 
-Objects and Interfaces
-
-Classes and OOP Concepts
-
-Enums
-
-Union and Intersection Types
-
-Type Assertions
-
-Type Aliases
-
-How to Run the Code
-
-Clone this repository.
-
-Make sure you have Node.js installed.
-
-Install TypeScript globally if not installed:
-
-npm install -g typescript
-
-Navigate to the project folder:
-
-cd typescript-assignment
-
-Compile the TypeScript files:
-
-tsc
-
-Run the JavaScript files:
-
-node filename.js
-
-Achievements
-
-✅ Completed all 45 questions within 6 days
-✅ Submitted before the second class
-✅ Enhanced TypeScript knowledge
-
-Contact
-
-Name: M Haris
-
-GitHub: [https://github.com/M-HARIS-MINHAS]
-
-Email: [https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox]
-
-Proudly submitted by M Haris 🔥💪
+---
+Proudly submitted by **M Haris** 🔥💪
+```
 
