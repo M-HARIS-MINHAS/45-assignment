@@ -5,7 +5,7 @@ This repository contains the solutions to the 45 TypeScript questions assigned b
 
 ## Overview
 - **Assignment Name:** TypeScript 45 Questions Assignment
-- **Instructor:** Sir Zia
+- **Instructor:** Sir Zia,Ameen alam and Hamza Syed
 - **Program:** Governor Sindh Initiative for AI and Cloud Computing (GIAIC)
 - **Batch:** Q2 (Next.js and TypeScript)
 - **Student Name:** M Haris
