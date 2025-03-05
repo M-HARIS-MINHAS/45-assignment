@@ -59,4 +59,3 @@ This assignment consists of 45 TypeScript questions designed to test and enhance
 ---
 Proudly submitted by **M Haris** 🔥💪
 ```
-
